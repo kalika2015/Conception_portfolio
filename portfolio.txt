@@ -1,0 +1,36 @@
+Pourquoi un Portfolio ??
+Le portfolio sera ma vitrine en tant que developpeur web.  Investir dans un portfolio c’est avoir 
+un dossier de tout ce que j’ai fait et la preuve de ce que je peux faire. ce dernier va me 
+représenter et va devenir nécessaire lorsqu'il viendra le temps de se vendre comme technicien.
+
+Création du Portfolio
+je commence tout d'abord, pour la création de mon portfolio, par une application hybride mobile 
+avant de pouvoir creer un site web qui sera relié à ce dernier grace à une API.
+
+Application mobile
+Pour cette partie, je vais utiliser IONIC qui est un framework open-source basé initialement 
+sur AngularJS et Apache Cordova. Ionic permet de créer un code multisupport en utilisant des 
+outils Web comme HTML, CSS, JavaScript, afin de générer des applications iOS, Android, Windows 
+Phone et bien d'autres. 
+les différentes pages que j'aurai vont correspondre au menu:
+Accueil - A propos - Compétences - Portfolio - Contact.
+
+Page Accueil:
+-----------------
+- petite présentation 
+- animation
+- photo en parallax
+- pied de page
+- réseau sociaux
+
+Page A propos:
+-------------------
+- photo 
+- description
+- expériences
+
+Page Compétences:
+------------------------
+- mise en avant des langages métrisés
+- frameworks que j'utilise
+- présentations de mes blogs
